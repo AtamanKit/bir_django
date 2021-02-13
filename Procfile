@@ -1,0 +1,1 @@
+web: gunicorn bir_project.wsgi
