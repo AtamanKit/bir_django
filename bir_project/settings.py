@@ -56,6 +56,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
+    'https://bir-react.web.app/',
 ]
 
 ROOT_URLCONF = 'bir_project.urls'
