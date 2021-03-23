@@ -12,6 +12,7 @@ class DeranjSerializer(serializers.ModelSerializer):
                   'instalatia',
                   'fid_10kv',
                   'pt',
+                  'fid_04kv',
                   'continutul',
                   'data',
                   'responsabil',
