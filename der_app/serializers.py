@@ -10,7 +10,10 @@ class DeranjSerializer(serializers.ModelSerializer):
                   'transmis',
                   'sector',
                   'instalatia',
+                  'fid_10kv',
                   'pt',
                   'continutul',
+                  'data',
+                  'responsabil',
                   'starea',
                  ]
