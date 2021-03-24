@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'bir_app',
     'der_app',
+    'deconect_app',
 ]
 
 MIDDLEWARE = [
