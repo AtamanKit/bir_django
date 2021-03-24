@@ -15,6 +15,7 @@ class DeconectSerializer(serializers.ModelSerializer):
                   'cons_cas',
                   'cons_ec',
                   'total',
+                  'localitate',
                   'cauza',
                   'termen',
                  ]
