@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'bir_app',
     'der_app',
     'deconect_app',
+    'xmodel_app',
 ]
 
 MIDDLEWARE = [
