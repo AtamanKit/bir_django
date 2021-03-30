@@ -4,8 +4,7 @@ from .models import AL
 class ALSerializer(serializers.ModelSerializer):
     class Meta:
         model = AL
-        fields = ['_id',
-                  'id',
+        fields = ['id',
                   'oficiul',
                   'nr_ds',
                   'nr_al',
