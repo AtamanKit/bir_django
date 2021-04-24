@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'der_app',
     'deconect_app',
     'xmodel_app',
+    'al_app',
 ]
 
 MIDDLEWARE = [
